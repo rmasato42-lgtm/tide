@@ -1,4 +1,4 @@
-    <p>Tide is a modern web proxy with a clean, sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone.</p>
+Tide is a modern web proxy with a clean, sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone.
 </div>
 
 ## Features
